@@ -12,24 +12,24 @@ let StandingYogaAsanas = [
         "posename": "Warrior 1 (virabhadrasana I)",
         "imgUrl": "https://www.shutterstock.com/image-vector/warrior-pose-i-beautiful-girl-260nw-2126550068.jpg",
         "videoId": "https://www.youtube.com/watch?v=2HTvZp5rPrg",
-        "duration": "",
-        "relaxationTime": "",
+        "duration": "1 min",
+        "relaxationTime": "10sec",
         "category": "standing"
     },
     {
         "posename": "Warrior 2 (virabhadrasana II)",
         "imgUrl": "https://media.istockphoto.com/id/1371034908/vector/warrior-pose-ii-virabhadrasana-ii.jpg?s=612x612&w=0&k=20&c=zBUYSOai11Cph_61UmcYmDsEUCsaQKKi6p06G8_GV74=",
         "videoId": "https://www.youtube.com/watch?v=2HTvZp5rPrg",
-        "duration": "",
-        "relaxationTime": "",
+        "duration": "2 min",
+        "relaxationTime": "10 sec",
         "category": "standing"
     },
     {
         "posename": "Warrior 3 (virabhadrasana III)",
         "imgUrl": "https://d5sbbf6usl3xq.cloudfront.net/virabhadrasana_iii.png",
         "videoId": "https://www.youtube.com/watch?v=2HTvZp5rPrg",
-        "duration": "",
-        "relaxationTime": "",
+        "duration": "1 min",
+        "relaxationTime": "10 sec",
         "category": "standing"
     },
     {
@@ -231,7 +231,7 @@ let YogaPosesLying = [
         "videoId": "2MJGg-dUKh0",
         "duration": "30 seconds",
         "relaxationTime": "10 seconds",
-     "category": "lying"
+        "category": "lying"
 
     },
     {
